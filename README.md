@@ -10,6 +10,9 @@ In this workshop, we will be creating a recipe finder app that uses the Edamam A
 ```
 git clone https://github.com/jfermint/python-api-workshop.git
 ```
+3. Install Python3
+   - On Mac, use this command: `brew install python3`
+   - On Windows, download the recommended file [here](https://www.python.org/downloads/release/python-3121/)
 
 ---
 
