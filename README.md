@@ -23,7 +23,6 @@ cd backend
 python3 -m venv venv
 source venv/bin/activate
 pip install -r resources/requirements.txt
-cd ..
 ```
 2. Create a `.env` file in the root folder to store the following API secrets (values will be provided, if you want your own credentials visit [here](https://www.edamam.com/))
 ```dotenv
@@ -42,6 +41,5 @@ flask run
 ```bash
 cd frontend
 npm run start
-cd ..
 ```
 
