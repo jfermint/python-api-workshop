@@ -1,6 +1,3 @@
-# Imports
-
-
 # Initialize Flask app
 
 # Add routing
